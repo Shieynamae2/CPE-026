@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheina Mae</h1>
 <h3 align="center">I am CPE student with a specialization of Intelligent System in TIP QC</h3>
 
+- 🌱 I’m currently learning **3D model, Figma**
+
 - 📫 How to reach me **qsmbdeleon@tip.edu.ph / sheinamaedeleon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
